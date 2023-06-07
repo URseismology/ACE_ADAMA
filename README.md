@@ -26,4 +26,4 @@ INCLUDES:
 INFO IN THE DIRECTORY
 
 5. forwardADAMA.m: compute the dispersion velocity using ADAMA_1D models.
-6. inverseADAMA.m: inverse the ADAMA_1D models (from dispersion curve measurements) using Lovee-Raylee code.
+6. inverseADAMA.m: inverse the ADAMA_1D models (from dispersion curve measurements) using Lovee-Raylee code (note it uses the function raylee_invert.m).
