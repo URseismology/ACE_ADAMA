@@ -6,7 +6,7 @@ INCLUDES:
 * ADAMA_1D_fixedpoisson.mat: the ADAMA 1D models using poission ratio fixed (note: both ADAMA_1D has empty fields because there are no model updates for some locations; both inversion processes use chi-square range = [0.3, 0.5] and msigmaf = 2).
 * Litho_1D.mat: the Litho1.0 1D models (same order as the ADAMA_1D and the AfrDownSampleDots)
 * AfrDownSampleDots.mat: location of the downsampled points in Africa, and the corresponding index in the map (afrmask; set how to use it in the plotting code fig7_VelMesmQlt.m) 
-* ADAMA_Uncer.mat: XXXXXXX
+* ADAMA_Uncer.mat: XXXXXXX (not ready yet!)
 
 2. ADAMA_Maps  (On BlueHive) [/scratch/tolugboj_lab/Prj5_HarnomicRFTraces/2_Data/ADAMA_Maps] <br>
 INCLUDES: 
