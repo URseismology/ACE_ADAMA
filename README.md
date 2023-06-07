@@ -18,10 +18,10 @@ INCLUDES:
 
 3. ADAMA_MCMC  (On Bluehive) [/scratch/tolugboj_lab/Prj5_HarnomicRFTraces/2_Data/ADAMA_MCMC] <br>
 INCLUDES:
-* (plotpara.mat)
-*
-*
-*
+* RayleighPData: Rayleigh phase velocity map (contains cell locations and cell velocity) ensembles for 11 periods(plotpara.mat contains the lat & lon grid of the velocity map).
+* RayleighGData: Rayleigh group velocity map ensembles for 11 periods.
+* LovePData: Love phase velocity map ensembles for 11 periods.
+* LoveGData: Love group velocity map ensembles for 11 periods.
 
 4. Plotting Code <br>
 INFO IN THE DIRECTORY
