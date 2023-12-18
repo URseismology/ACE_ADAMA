@@ -30,6 +30,5 @@ INFO IN THE DIRECTORY
 6. inverseADAMA.m: inverse the ADAMA_1D models (from dispersion curve measurements) using Lovee-Raylee code (note it uses the function raylee_invert.m).
 
 
-7. Table 4
-   Calculation of values in Table 4
+7. Table 4: Calculation of values in Table 4
    
