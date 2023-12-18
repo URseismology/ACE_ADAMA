@@ -32,4 +32,4 @@ INFO IN THE DIRECTORY
 
 7. Table 4
    Calculation of values in Table 4
-9. 
+   
