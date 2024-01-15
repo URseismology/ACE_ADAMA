@@ -32,5 +32,5 @@ INFO IN THE DIRECTORY
 7. Table 4: Calculation of values in Table 4
 
    
-9. 2D grids at depths(0.5:0.5:7.5,10,12.5,17.5,22.5,27.5,30.5,32.5,40.5,42.5) for ADAMA (updated shear, phases, and group velocity maps) and Litho in txt, nc and mat format 
+9. 2D grids at depths (0.5:0.5:7.5,10,12.5,17.5,22.5,27.5,30.5,32.5,40.5,42.5) for ADAMA (updated shear, phases, and group velocity maps) and Litho in txt, nc and mat format 
    
