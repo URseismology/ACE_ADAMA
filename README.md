@@ -1,7 +1,7 @@
 # ACE_ADAMA
 
 1. ADAMA_Models:            
-2D grids at depths (0.5:0.5:7.5,10,12.5,17.5,22.5,27.5,30.5,32.5,40.5,42.5 km) for ADAMA and Litho, as well as phase and group maps for love and Rayleigh waves in .txt, .nc, and .mat format.
+2D grids at depths (0.5:0.5:7.5,10,12.5,17.5,22.5,27.5,30.5,32.5,40.5,42.5 km) for ADAMA and Litho, and phase and group maps for love and Rayleigh waves in .txt, .nc, and .mat format.
 
      ADAMA_Models [BH: /scratch/tolugboj_lab/Prj5_HarnomicRFTraces/2_Data/ADAMA_Models] <br> INCLUDES:
 * ADAMA_1D_fixed1p7.mat: the ADAMA 1D models using a fixed vp/vs ratio = 1.7 
