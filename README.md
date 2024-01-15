@@ -3,7 +3,7 @@
 1. ADAMA_Models:
 2D grids at depths (0.5:0.5:7.5,10,12.5,17.5,22.5,27.5,30.5,32.5,40.5,42.5) for ADAMA and Litho, as well as phase and group maps for love and Rayleigh waves in .txt, .nc, and .mat format.
 
-ADAMA_Models [BH: /scratch/tolugboj_lab/Prj5_HarnomicRFTraces/2_Data/ADAMA_Models] <br> INCLUDES:
+ ADAMA_Models [BH: /scratch/tolugboj_lab/Prj5_HarnomicRFTraces/2_Data/ADAMA_Models] <br> INCLUDES:
 * ADAMA_1D_fixed1p7.mat: the ADAMA 1D models using a fixed vp/vs ratio = 1.7 
 * ADAMA_1D_fixedpoisson.mat: the ADAMA 1D models using Poisson ratio fixed (note: both ADAMA_1D has empty fields because there are no model updates for some locations; both inversion processes use chi-square range = [0.3, 0.5] and msigmaf = 2).
 * Litho_1D.mat: the Litho1.0 1D models (same order as the ADAMA_1D and the AfrDownSampleDots)
